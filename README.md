@@ -4,3 +4,4 @@ This is a project suggested by coursera to display what was learned from the com
 Data was downloaded from Kaggle as a publicly share database shared by fitbit.
 
 Exploration and Cleaning were done using Python.  See attached data_Bellabeat files.
+Merging was done using SQL in Google Big Query.
